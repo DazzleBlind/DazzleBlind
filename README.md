@@ -26,7 +26,7 @@
 Я специалист в области Data Science :man_scientist: из Беларуси <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - <a href="https://github.com/DazzleBlind/Portfolio_Practicum">
-    Портфолио:chart_with_upwards_trend:
+    Портфолио :chart_with_upwards_trend:
   </a>
 
 - :seedling:  Создаю|Обучаю модели, провожу исследования в области ds
