@@ -19,11 +19,15 @@
 </h1>
 </div>
 
+---
 
+### :man_technologist: Обо мне :
 
+Я специалист в области Data Science :man_scientist: из Belarus <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
-
+- :seedling:  Создаю|Обучаю модели, провожу исследования в области ds
+  
+- :zap: В свободное время катаюсь на вейке:surfer: и скейте:skateboard:, изучаю статьи по машинному обучению.:desktop_computer::space_invader:
 
 ---
 
