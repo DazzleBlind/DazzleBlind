@@ -18,3 +18,26 @@
   Я Константин a.k.a. :gem:DaZzzLe:gem:
 </h1>
 </div>
+
+
+
+
+
+
+
+---
+
+### :hammer_and_wrench: Мой Стек :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://static.cdnlogo.com/logos/c/48/catboost.svg" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://numfocus.org/wp-content/uploads/2018/01/gensim-circle.png" title="Git" **alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+</div>
